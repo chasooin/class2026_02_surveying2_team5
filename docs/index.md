@@ -69,13 +69,13 @@ badge: "DEMO / 실제 관측 결과 아님"
 
 
 **참고문헌**
-[1] 부산광역시. 부산신항 개발현황. 부산광역시 해양농수산국. https://www.busan.go.kr/depart/ocean
-[2] 부산신항 매립 전과 후 사진 https://www.mois.go.kr/cmm/fms/FileDown.do?atchFileId=FILE_00130465XriwqSQ&fileSn=0
-[3] Ryu, J. H., Won, J. S., & Min, K. D. (2007). Monitoring of suspended sediment variation using Landsat and MODIS in the Saemangeum coastal area of Korea. Continental Shelf Research, 27(17), 2224–2239.
-[4] Jeon, G.-S.; Kim, W. Resolving Surface Heat Island Effects in Fine-Scale Spatio-Temporal Domains for the Two Warmest Metropolitan Cities of Korea. Remote Sens. 2025, 17, 3815. https://doi.org/10.3390/rs17233815
-[5] Laaidi K, Zeghnoun A, Dousset B, Bretin P, Vandentorren S, Giraudet E, Beaudeau P. The impact of heat islands on mortality in Paris during the August 2003 heat wave. Environ Health Perspect. 2012 Feb;120(2):254-9. doi: 10.1289/ehp.1103532. Epub 2011 Sep 1. PMID: 21885383; PMCID: PMC3279432.
-[6] 이상협(Sang-Hyub Lee), 장성철(Sung-Chul Jang), and 윤한삼(Han-Sam Yoon). "부산 연안 해수의 투명도와 부유물질의 공간 분포 특성에 관한 연구." 한국해양환경·에너지학회지 25.4 (2022): 171-182.
-[7] Kim, J.; Ghosh, A.; Paul, T.; Yee, J.-J.; Park, S. Assessing the Environmental Impact of Busan New Port Construction in Korea: A Comprehensive Analysis of Water Quality Changes and Suspended Solids in Jinhae Bay. Water 2025, 17, 852. https://doi.org/10.3390/w17060852
+1. 부산광역시. 부산신항 개발현황. 부산광역시 해양농수산국. https://www.busan.go.kr/depart/ocean
+2. 부산신항 매립 전과 후 사진 https://www.mois.go.kr/cmm/fms/FileDown.do?atchFileId=FILE_00130465XriwqSQ&fileSn=0
+3. Ryu, J. H., Won, J. S., & Min, K. D. (2007). Monitoring of suspended sediment variation using Landsat and MODIS in the Saemangeum coastal area of Korea. Continental Shelf Research, 27(17), 2224–2239.
+4. Jeon, G.-S.; Kim, W. Resolving Surface Heat Island Effects in Fine-Scale Spatio-Temporal Domains for the Two Warmest Metropolitan Cities of Korea. Remote Sens. 2025, 17, 3815. https://doi.org/10.3390/rs17233815
+5. Laaidi K, Zeghnoun A, Dousset B, Bretin P, Vandentorren S, Giraudet E, Beaudeau P. The impact of heat islands on mortality in Paris during the August 2003 heat wave. Environ Health Perspect. 2012 Feb;120(2):254-9. doi: 10.1289/ehp.1103532. Epub 2011 Sep 1. PMID: 21885383; PMCID: PMC3279432.
+6. 이상협(Sang-Hyub Lee), 장성철(Sung-Chul Jang), and 윤한삼(Han-Sam Yoon). "부산 연안 해수의 투명도와 부유물질의 공간 분포 특성에 관한 연구." 한국해양환경·에너지학회지 25.4 (2022): 171-182.
+7. Kim, J.; Ghosh, A.; Paul, T.; Yee, J.-J.; Park, S. Assessing the Environmental Impact of Busan New Port Construction in Korea: A Comprehensive Analysis of Water Quality Changes and Suspended Solids in Jinhae Bay. Water 2025, 17, 852. https://doi.org/10.3390/w17060852
 
 ## 2. 연구 질문 {#question}
 
