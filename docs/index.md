@@ -49,13 +49,19 @@ badge: "DEMO / 실제 관측 결과 아님"
 
 부산신항 역시 대규모 항만시설과 물류단지가 집적된 지역이라는 점에서 인접한 주거 및 내륙지역의 지표면 온도 변화를 면밀히 살펴볼 필요가 있다. 항만·물류 시설과 인접 내륙지역은 토지 이용과 피복 특성이 상이하므로, 매립과 개발에 따른 지역별 지표면 온도 분포의 차이를 파악하는 것은 연안 도시의 환경적·사회적 영향을 이해하는 데 중요한 의미를 가진다.
 
+![그림 2. 수목,녹지,시가화 지역의 온도차이 그래프.](figures/Summer_LST.png)
+그림 2. 유럽 지역별 수목 지역·수목이 없는 도시 녹지·시가화 지역 간 여름철 지표면 온도 차이.[6]
+
 ### 1.4 매립 및 항만 개발 주변 해역의 탁도 문제
 
 연안 해역의 탁도는 물속에 존재하는 부유물질과 입자성 물질 등에 의해 물의 투명도가 감소하는 정도를 나타내는 환경적 특성이다. 부유물질은 해수의 빛 투과율을 저하시켜 저서 생태계에 영향을 미치며, 연안 해양환경의 상태를 이해하는 데 중요한 지표로 활용된다.
 
 대규모 매립과 항만 건설 과정에서는 준설, 토사 이동, 해저 지형 변화 등으로 인해 해역 내 부유물질의 분포가 달라질 가능성이 있다. 또한 조류와 해류의 흐름, 강우 및 하천 유입 등 자연적인 요인도 해역의 탁도에 영향을 줄 수 있으므로, 연안 해역의 탁도는 다양한 요인이 복합적으로 작용하는 환경적 지표로 이해해야 한다.
 
-부산 연안 해역의 투명도와 부유물질 분포를 분석한 선행연구에서는 2011년부터 2022년까지의 관측자료를 바탕으로 해역별 부유물질 농도와 투명도의 차이를 확인한 연구 사례가 있다. 특히 부산신항 내측 해역에서는 저층 부유물질 농도가 최대 92.6mg/L로 관측되었으며, 부산 연안 해역이 위치에 따라 서로 다른 부유물질 분포 특성을 보이는 것으로 나타났다[6]. 또한 부산신항 준설과 관련된 해양환경 모니터링 연구에서도 신항 및 진해만 주변의 관측 지점을 대상으로 부유물질 농도의 시기별 변화와 공간적 분포가 분석되었다[[7]](https://www.mdpi.com/2073-4441/17/6/852).
+부산 연안 해역의 투명도와 부유물질 분포를 분석한 선행연구에서는 2011년부터 2022년까지의 관측자료를 바탕으로 해역별 부유물질 농도와 투명도의 차이를 확인한 연구 사례가 있다. 특히 부산신항 내측 해역에서는 저층 부유물질 농도가 최대 92.6mg/L로 관측되었으며, 부산 연안 해역이 위치에 따라 서로 다른 부유물질 분포 특성을 보이는 것으로 나타났다[7]. 또한 부산신항 준설과 관련된 해양환경 모니터링 연구에서도 신항 및 진해만 주변의 관측 지점을 대상으로 부유물질 농도의 시기별 변화와 공간적 분포가 분석되었다[[8]](https://www.mdpi.com/2073-4441/17/6/852).
+
+![그림 3. 진해신항 환경오염.](figures/진해신항.png)
+그림 3. 진해신항 부유사 피해.[9]
 
 이러한 부유물질 농도 상승과 탁도 변화는 해양생태계 교란뿐만 아니라 지역 어업 환경에도 영향을 미칠 수 있다. 부산신항과 인접한 진해만 일대는 굴, 피조개 등 패류 양식과 연안 어업이 활발히 이루어지는 해역으로, 부유사의 확산과 침적은 양식 생물의 생육 저하 등 어업 활동에 잠재적인 피해를 초래할 우려가 있다. 따라서 부산신항 개발에 따른 주변 해역의 탁도 변화를 시공간적으로 관측하는 것은 연안 환경 보전과 지역 수산업 보호 측면에서 중요한 과제이다.
 
@@ -74,8 +80,10 @@ badge: "DEMO / 실제 관측 결과 아님"
 3. Ryu, J. H., Won, J. S., & Min, K. D. (2007). Monitoring of suspended sediment variation using Landsat and MODIS in the Saemangeum coastal area of Korea. Continental Shelf Research, 27(17), 2224–2239.
 4. Jeon, G.-S.; Kim, W. Resolving Surface Heat Island Effects in Fine-Scale Spatio-Temporal Domains for the Two Warmest Metropolitan Cities of Korea. Remote Sens. 2025, 17, 3815. https://doi.org/10.3390/rs17233815
 5. Laaidi K, Zeghnoun A, Dousset B, Bretin P, Vandentorren S, Giraudet E, Beaudeau P. The impact of heat islands on mortality in Paris during the August 2003 heat wave. Environ Health Perspect. 2012 Feb;120(2):254-9. doi: 10.1289/ehp.1103532. Epub 2011 Sep 1. PMID: 21885383; PMCID: PMC3279432.
-6. 이상협(Sang-Hyub Lee), 장성철(Sung-Chul Jang), and 윤한삼(Han-Sam Yoon). "부산 연안 해수의 투명도와 부유물질의 공간 분포 특성에 관한 연구." 한국해양환경·에너지학회지 25.4 (2022): 171-182.
-7. Kim, J.; Ghosh, A.; Paul, T.; Yee, J.-J.; Park, S. Assessing the Environmental Impact of Busan New Port Construction in Korea: A Comprehensive Analysis of Water Quality Changes and Suspended Solids in Jinhae Bay. Water 2025, 17, 852. https://doi.org/10.3390/w17060852
+6. Schwaab et al. (2021), Figure 3a 발췌.
+7. 이상협(Sang-Hyub Lee), 장성철(Sung-Chul Jang), and 윤한삼(Han-Sam Yoon). "부산 연안 해수의 투명도와 부유물질의 공간 분포 특성에 관한 연구." 한국해양환경·에너지학회지 25.4 (2022): 171-182.
+8. Kim, J.; Ghosh, A.; Paul, T.; Yee, J.-J.; Park, S. Assessing the Environmental Impact of Busan New Port Construction in Korea: A Comprehensive Analysis of Water Quality Changes and Suspended Solids in Jinhae Bay. Water 2025, 17, 852. https://doi.org/10.3390/w17060852
+9. "진해신항 해상공사 과정서 흙탕물 발생에 어민들 반발", 동행미디어시대, 2026. 03. 17., 황철성 기자
 
 ## 2. 연구 질문 {#question}
 
