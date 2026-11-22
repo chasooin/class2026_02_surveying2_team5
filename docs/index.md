@@ -152,11 +152,9 @@ badge: "DEMO / 실제 관측 결과 아님"
 
 미국 지질조사국(USGS)의 Landsat Collection 2 Tier 1 Level-2 자료를 Google Earth Engine에서 조회한다.[^landsat] 코랩은 2000~2011년에 Landsat 5·7, 2012년에 Landsat 7, 2013~2020년에 Landsat 8, 2021~2024년에 Landsat 8·9를 검색한다. 실제 사용 센서와 촬영일은 해당 연도 8월의 영상 목록에 따라 결정된다. 위치와 면적을 계산할 때에는 UTM 52N 좌표계(EPSG:32652)를 사용한다.
 
-수륙 경계 추출에는 30 m 지표면 반사도를 사용한다. 녹색과 근적외선 밴드는 Landsat 5·7에서 각각 SR_B2와 SR_B4, Landsat 8·9에서 각각 SR_B3와 SR_B5이다. 각 밴드의 저장값(DN)을 반사도 ρ로 환산한 뒤 정규수역지수(NDWI)를 계산한다. 수역과 육지의 경계를 구하는 식은 다음과 같다.[^scale]
-\[
-\rho=0.0000275\,DN-0.2,\qquad
-NDWI=\frac{\rho_{Green}-\rho_{NIR}}{\rho_{Green}+\rho_{NIR}}
-\]
+수륙 경계 추출에는 30 m 지표면 반사도를 사용한다. 녹색과 근적외선 밴드는 Landsat 5·7에서 각각 SR_B2와 SR_B4, Landsat 8·9에서 각각 SR_B3와 SR_B5이다. 각 밴드의 저장값(DN)을 반사도 ρ로 환산한 뒤 정규수역지수(NDWI)를 계산한다. 수역과 육지의 경계를 구하는 식은 다음과 같다.
+<img width="535" height="83" alt="스크린샷 2026-11-22 오후 8 48 20" src="https://github.com/user-attachments/assets/d17b9b17-218b-4882-b032-f764bb12f560" />
+
 온도 분석에는 지표면 온도 밴드가 있는 L2SP 영상만 사용한다. Landsat 5·7에서는 ST_B6, Landsat 8·9에서는 ST_B10의 저장값을 다음 식으로 섭씨온도(°C)로 환산한다. 센서별 열 관측 해상도 차이를 고려하여 육상 온도는 120 m 공통 격자로 집계한다. 이 값은 위성 통과 시점에 관측된 지표면의 온도를 나타낸다.[^scale]
 \[
 LST\;(°C)=0.00341802\,DN_{ST}+149.0-273.15
