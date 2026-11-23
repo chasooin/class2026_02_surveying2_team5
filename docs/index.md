@@ -1,4 +1,4 @@
-<img width="1166" height="711" alt="KakaoTalk_20261123_103322764" src="https://github.com/user-attachments/assets/b3876b5f-1dc0-4130-a8f5-4bb0375fd483" />
+
 ---
 layout: report
 advanced: true
