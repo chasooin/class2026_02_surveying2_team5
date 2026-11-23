@@ -148,7 +148,7 @@ badge: "DEMO / 실제 관측 결과 아님"
 
 ### 4.2 Landsat 지표면 반사도와 지표면 온도
 
-미국 지질조사국(USGS)의 Landsat Collection 2 Tier 1 Level-2 자료를 Google Earth Engine에서 조회한다.[^landsat] 연도별 검색 대상은 2000~2011년 Landsat 5·7, 2012년 Landsat 7, 2013~2020년 Landsat 8, 2021~2024년 Landsat 8·9이다. 실제 사용 센서와 촬영일은 각 세부목적의 관측 기간과 영상의 유효 관측 범위에 따라 결정되므로, 분석에 포함한 영상의 식별자와 촬영일을 기록한다. 위치·거리·면적을 계산할 때에는 UTM 52N 좌표계(EPSG:32652)를 사용한다.
+미국 지질조사국(USGS)의 Landsat Collection 2 Tier 1 Level-2 자료를 Google Earth Engine에서 조회한다. 연도별 검색 대상은 2000~2011년 Landsat 5·7, 2012년 Landsat 7, 2013~2020년 Landsat 8, 2021~2024년 Landsat 8·9이다. 실제 사용 센서와 촬영일은 각 세부목적의 관측 기간과 영상의 유효 관측 범위에 따라 결정되므로, 분석에 포함한 영상의 식별자와 촬영일을 기록한다. 위치·거리·면적을 계산할 때에는 UTM 52N 좌표계(EPSG:32652)를 사용한다.
 
 수륙 경계 추출에는 30 m 지표면 반사도 자료를 사용한다. 녹색광(Green)과 근적외선(NIR) 밴드는 Landsat 5·7에서 각각 SR_B2와 SR_B4, Landsat 8·9에서 각각 SR_B3와 SR_B5이다. 각 밴드의 저장값(DN)을 지표면 반사도(ρ)로 환산한 뒤, 녹색광과 근적외선 반사도의 차이를 이용하여 정규수역지수(NDWI)를 계산한다. 이 지수를 바탕으로 연도별 수역과 육지를 구분하고 수륙 경계를 추출한다.
 <img width="535" height="83" alt="스크린샷 2026-11-22 오후 8 48 20" src="https://github.com/user-attachments/assets/d17b9b17-218b-4882-b032-f764bb12f560" />
