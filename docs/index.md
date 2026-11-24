@@ -301,7 +301,9 @@ $\Delta D$가 양수이면 전기에 비해 후기에 용원동 해당 구역이
 
 [세부목적 3 노트북]({{ site.github.repository_url }}/blob/main/02_개인분석/04_robustness.ipynb) · [전체 추정값·구간·fold별 오차 및 배정]({{ site.github.repository_url }}/blob/main/03_분석결과/advanced_summary.json)
 
-<img width="1470" height="714" alt="image" src="https://github.com/user-attachments/assets/791e5558-aec7-41d6-80ce-812e7b2fc790" />
+<img width="1518" height="716" alt="image" src="https://github.com/user-attachments/assets/11faefe9-43b8-4df2-a6fa-667271236bd1" />
+
+
 
 
 **그림** 위 그림은 거리에 따른 NDTI 분포를 연도별로 나타낸 그림이다.
