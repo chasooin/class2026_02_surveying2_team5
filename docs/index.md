@@ -302,6 +302,8 @@ $\Delta D$가 양수이면 전기에 비해 후기에 용원동 해당 구역이
 ### 6.3 세부목적 3 · 부산신항 항내와 항외 해역의 연도별 여름철 탁도지수 분포 파악
 
 **대응 연구 질문:** 2000~2023년 여름철(6~9월) Landsat 위성영상으로 관측한 부산신항 주변 해역에서, 항내와 항외(매립지 경계로 부터 6km 이내)의 탁도지수(NDTI)는 어떻게 분포하고, 거리에 따른 NDTI는 매립 진행 시기에 따라 어떻게 달라졌는가?
+<img width="1189" height="924" alt="image" src="https://github.com/user-attachments/assets/02d116bd-95f5-4ac9-9182-f40a7e0f1169" />
+
 <img width="695" height="1125" alt="image" src="https://github.com/user-attachments/assets/07e1d2a9-1a2c-4b69-9a6b-f1da536b2aff" />
 
 <img width="1346" height="831" alt="image" src="https://github.com/user-attachments/assets/9fc7014f-f8be-495f-8f83-bd069b98ffa2" />
