@@ -297,12 +297,13 @@ $\Delta D$가 양수이면 전기에 비해 후기에 용원동 해당 구역이
 ### 6.3 세부목적 3 · 부산신항 항내와 항외 해역의 연도별 여름철 탁도지수 분포 파악
 
 **대응 연구 질문:** 2000~2023년 여름철(6~9월) Landsat 위성영상으로 관측한 부산신항 주변 해역에서, 항내와 항외(매립지 경계로 부터 6km 이내)의 탁도지수(NDTI)는 어떻게 분포하고, 거리에 따른 NDTI는 매립 진행 시기에 따라 어떻게 달라졌는가?
+<img width="695" height="1125" alt="image" src="https://github.com/user-attachments/assets/07e1d2a9-1a2c-4b69-9a6b-f1da536b2aff" />
 
 <img width="1346" height="831" alt="image" src="https://github.com/user-attachments/assets/9fc7014f-f8be-495f-8f83-bd069b98ffa2" />
 
 
 
-**그림** 위 그림은 연도별 여름철 항내와 항외의 NDTI값과 차이를 보여주는 그래프다.
+**그림** 위 표와 그림은 연도별 여름철 항내와 항외의 NDTI값과 차이를 나타낸다
 
 지도 사진은 항내의 범위와 대조군 역할인 항외의 범위를 보여준다. 위 그래프는 연도별 여름철 항내와 항외의 NDTI값을 보여주고 아래 그래프는 그 값들의 차이(내외 차)를 보여준다
 
@@ -312,14 +313,15 @@ $\Delta D$가 양수이면 전기에 비해 후기에 용원동 해당 구역이
 2012년에서 2013년 사이 항내·항외 NDTI는 각각 −0.21 -> −0.46  ,  −0.21 -> −0.60으로 함께 감소하였다. 이 시점은 사용 센서가 Landsat 7에서 8로 바뀐 시기와 겹친다.
 내외 차는 같은 날, 같은 위성 영상 안에서 계산하였다.
 
-[세부목적 3 노트북]({{ site.github.repository_url }}/blob/main/02_개인분석/04_robustness.ipynb) · [전체 추정값·구간·fold별 오차 및 배정]({{ site.github.repository_url }}/blob/main/03_분석결과/advanced_summary.json)
+
+<img width="1118" height="421" alt="image" src="https://github.com/user-attachments/assets/5524613d-5d24-4cd1-9260-7d68f3731cad" />
 
 <img width="1518" height="716" alt="image" src="https://github.com/user-attachments/assets/11faefe9-43b8-4df2-a6fa-667271236bd1" />
 
 
 
 
-**그림** 위 그림은 거리에 따른 NDTI 분포를 연도별로 나타낸 그림이다.
+**그림** 위 표와 그림은 거리에 따른 NDTI 분포를 연도별로 나타낸다
 
 왼쪽 그림은 거리별 NDTI값을 연도 별로 지도에 나타내 보여준다. 색이 붉을 수록 NDTI가 높다. 오른쪽 그림은 시기별 평균 NDTI가 거리에 따라 어떻게 변하는지 그래프로 나타낸다.
 
