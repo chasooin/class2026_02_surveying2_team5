@@ -256,8 +256,7 @@ $\Delta D$가 양수이면 전기에 비해 후기에 용원동 해당 구역이
 
 **대응 연구 질문:** 2000~2023년, Landsat 위성영상에서 확인되는 부산신항의 매립 구간은 관측 시기별로 어디에 분포하며, 각 단계에서 새로 조성된 매립지의 면적은 얼마인가?
 
-<img width="1801" height="1028" alt="image" src="https://github.com/user-attachments/assets/aa42d49c-e81a-49ae-a16c-691939512775" />
-
+<img width="1801" height="1028" alt="image" src="https://github.com/user-attachments/assets/8dd25870-d881-4ff9-a6d6-9c4a547bc37b" />
 <img width="1473" height="848" alt="image" src="https://github.com/user-attachments/assets/2ce7e2bd-5d93-4a6c-b142-c6518227b6f2" />
 
 **그림**위 그림은 시기별 부산신항의 매립지가 어떻게 변화했는지를 보여준다. 표는 연도 별로 매립된 양의 정확한 수치를 나타내고 그래프로 시각화하여 나타냄.
