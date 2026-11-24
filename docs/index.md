@@ -250,7 +250,8 @@ $\Delta D$가 양수이면 전기에 비해 후기에 용원동 해당 구역이
 
 36개 표본의 Pearson 상관계수는 **r = −0.92**로 나타났다. 이는 생성식에 설정된 음의 관계와 일치한다.
 
-![그림 2. NDVI 0.45 미만 및 이상 집단의 평균 합성 LST.](figures/group_means.png)
+<img width="646" height="451" alt="image" src="https://github.com/user-attachments/assets/09b83b30-33b5-4e2d-af93-7579c484cb3b" />
+
 
 **그림 2.** 기본 합성자료의 집단별 평균 LST. NDVI 0.45 미만 집단은 **33.9°C**, 0.45 이상 집단은 **30.1°C**였으며 평균 차이는 약 **3.7°C**였다. 이 비교는 표본 내 기술통계이며 모집단 차이의 검정 결과가 아니다.
 
