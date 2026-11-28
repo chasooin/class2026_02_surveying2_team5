@@ -145,6 +145,8 @@ badge: "DEMO / 실제 관측 결과 아님"
 ### 4.1 연구 대상과 관측 기간
 <img width="1166" height="711" alt="KakaoTalk_20261123_103322764" src="https://github.com/user-attachments/assets/fa9471b1-a635-486b-8416-620b730256ad" />
 
+<img width="433" height="322" alt="KakaoTalk_261128_211405" src="https://github.com/user-attachments/assets/f7c4917e-64b7-4624-93f7-5a1cfe184c12" />
+
 <img width="1211" height="748" alt="image" src="https://github.com/user-attachments/assets/c88cb3ff-f473-4497-b5d7-1ecbdc2cd41c" />
 
 
