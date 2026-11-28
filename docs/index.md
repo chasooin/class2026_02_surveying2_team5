@@ -346,7 +346,8 @@ $\Delta D$가 양수이면 전기에 비해 후기에 용원동 해당 구역이
 
 **표 6.3.1.** 부산신항 항내·항외 해역의 연도별 여름철 대표 NDTI
 
-<img width="1346" height="831" alt="image" src="https://github.com/user-attachments/assets/9fc7014f-f8be-495f-8f83-bd069b98ffa2" />
+<img width="2395" height="1580" alt="ndti_inner_outer_corrected" src="https://github.com/user-attachments/assets/be4d5ff8-92b3-4c43-9ce8-344047e7a32f" />
+
 
 **그림 6.3.2.** 2000~2023년 여름철 항내·항외 대표 NDTI와 두 해역의 차이
 
